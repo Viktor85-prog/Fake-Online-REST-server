@@ -29,37 +29,7 @@
     "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
     "completed": false
   },
-  {
-    "userId": 1,
-    "id": 6,
-    "title": "qui ullam ratione quibusdam voluptatem quia omnis",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 7,
-    "title": "illo expedita consequatur quia in",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 8,
-    "title": "quo adipisci enim quam ut ab",
-    "completed": true
-  },
-  {
-    "userId": 1,
-    "id": 9,
-    "title": "molestiae perspiciatis ipsa",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 10,
-    "title": "illo est ratione doloremque quia maiores aut",
-    "completed": true
-  },
-    {
+      {
     "userId": 2,
     "id": 21,
     "title": "suscipit repellat esse quibusdam voluptatem incidunt",
@@ -89,37 +59,7 @@
     "title": "voluptas quo tenetur perspiciatis explicabo natus",
     "completed": true
   },
-  {
-    "userId": 2,
-    "id": 26,
-    "title": "aliquam aut quasi",
-    "completed": true
-  },
-  {
-    "userId": 2,
-    "id": 27,
-    "title": "veritatis pariatur delectus",
-    "completed": true
-  },
-  {
-    "userId": 2,
-    "id": 28,
-    "title": "nesciunt totam sit blanditiis sit",
-    "completed": false
-  },
-  {
-    "userId": 2,
-    "id": 29,
-    "title": "laborum aut in quam",
-    "completed": false
-  },
-  {
-    "userId": 2,
-    "id": 30,
-    "title": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
-    "completed": true
-  },
-   {
+     {
     "userId": 3,
     "id": 41,
     "title": "aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit",
@@ -149,36 +89,7 @@
     "title": "velit soluta adipisci molestias reiciendis harum",
     "completed": false
   },
-  {
-    "userId": 3,
-    "id": 46,
-    "title": "vel voluptatem repellat nihil placeat corporis",
-    "completed": false
-  },
-  {
-    "userId": 3,
-    "id": 47,
-    "title": "nam qui rerum fugiat accusamus",
-    "completed": false
-  },
-  {
-    "userId": 3,
-    "id": 48,
-    "title": "sit reprehenderit omnis quia",
-    "completed": false
-  },
-  {
-    "userId": 3,
-    "id": 49,
-    "title": "ut necessitatibus aut maiores debitis officia blanditiis velit et",
-    "completed": false
-  },
-  {
-    "userId": 3,
-    "id": 50,
-    "title": "cupiditate necessitatibus ullam aut quis dolor voluptate",
-    "completed": true
-  },
+  
     {
     "userId": 4,
     "id": 61,
@@ -209,37 +120,7 @@
     "title": "fugiat pariatur ratione ut asperiores necessitatibus magni",
     "completed": false
   },
-  {
-    "userId": 4,
-    "id": 66,
-    "title": "rerum eum molestias autem voluptatum sit optio",
-    "completed": false
-  },
-  {
-    "userId": 4,
-    "id": 67,
-    "title": "quia voluptatibus voluptatem quos similique maiores repellat",
-    "completed": false
-  },
-  {
-    "userId": 4,
-    "id": 68,
-    "title": "aut id perspiciatis voluptatem iusto",
-    "completed": false
-  },
-  {
-    "userId": 4,
-    "id": 69,
-    "title": "doloribus sint dolorum ab adipisci itaque dignissimos aliquam suscipit",
-    "completed": false
-  },
-  {
-    "userId": 4,
-    "id": 70,
-    "title": "ut sequi accusantium et mollitia delectus sunt",
-    "completed": false
-  },
-    {
+     {
     "userId": 5,
     "id": 81,
     "title": "suscipit qui totam",
@@ -269,34 +150,4 @@
     "title": "et quia ad iste a",
     "completed": true
   },
-  {
-    "userId": 5,
-    "id": 86,
-    "title": "incidunt ut saepe autem",
-    "completed": true
-  },
-  {
-    "userId": 5,
-    "id": 87,
-    "title": "laudantium quae eligendi consequatur quia et vero autem",
-    "completed": true
-  },
-  {
-    "userId": 5,
-    "id": 88,
-    "title": "vitae aut excepturi laboriosam sint aliquam et et accusantium",
-    "completed": false
-  },
-  {
-    "userId": 5,
-    "id": 89,
-    "title": "sequi ut omnis et",
-    "completed": true
-  },
-  {
-    "userId": 5,
-    "id": 90,
-    "title": "molestiae nisi accusantium tenetur dolorem et",
-    "completed": true
-  },
-  
+  ]
